@@ -21,13 +21,14 @@ En la Universidad Pontificia Comillas soy el arquitecto principal del ecosistema
 - **MCP.** Servidores hub que centralizan registros de arquitectura y evidencias de calidad.
 - **Calidad medida.** Gates que rompen la build, no cuadros de mando decorativos.
 ---
+
 ## Software a medida
 
 También diseño y desarrollo software de gestión a medida para empresas que necesitan adaptar la herramienta a su forma real de trabajar.
 
 Desde la toma de requisitos y el modelado del dominio hasta el desarrollo, la integración, el despliegue y la evolución del producto. Especialmente en escenarios multiempresa, multiidioma, regulados o con procesos específicos que no encajan bien en un producto estándar.
----
 
+---
 ## Pruebas, no adjetivos
 
 Última campaña de remediación de calidad sobre el código de la plataforma:
