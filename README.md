@@ -1,86 +1,59 @@
-# 👨‍💻 Hugo Valer
+# Hugo Valer
 
-<div align="center">
+**Software Engineer | Microsoft Stack | AI & Secure Delivery**
 
-<h1>👨‍💻 Hugo Valer</h1>
-<h3>Ingeniero de Software · AI Builder · Security-minded</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Valer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovaler/)
+[![GitHub](https://img.shields.io/badge/GitHub-hvaler-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hvaler)
+[![Profile Views](https://komarev.com/ghpvc/?username=hvaler&style=flat-square&color=0e75b6)](https://github.com/hvaler)
 
-<br/>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Valer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovaler/)
-[![Profile Views](https://komarev.com/ghpvc/?username=hvaler&style=for-the-badge&color=0e75b6)](https://github.com/hvaler)
+## About
 
+Software engineer focused on building reliable digital products with the **Microsoft ecosystem**.  
+I work across backend, cloud, and delivery pipelines with a strong emphasis on **security, automation, and business impact**.
+
+- Build and maintain scalable applications with **C# / .NET**.
+- Design and operate cloud workloads on **Azure**.
+- Improve engineering flow with **CI/CD, automation, and code quality practices**.
+- Apply **secure-by-design** principles throughout the development lifecycle.
+
+---
+
+## Core Stack (Microsoft-first)
+
+- **Languages & Frameworks:** C#, .NET, ASP.NET Core
+- **Cloud & Platform:** Microsoft Azure
+- **Data:** SQL Server
+- **DevOps:** GitHub Actions, Azure DevOps, Docker
+- **Security & Quality:** SAST mindset, secure code reviews, dependency hygiene
+- **AI Productivity:** GitHub Copilot, automation workflows
+
+---
+
+## Current Focus
+
+- Enterprise-grade backend services on .NET
+- Azure architecture and operational excellence
+- Secure software delivery (DevSecOps practices)
+- Practical AI integration for engineering productivity
+
+---
+
+## GitHub Overview
+
+<div align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hvaler&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvaler&layout=compact&theme=default&hide_border=true" />
 </div>
 
 ---
 
-## 🧠 About me
+## Contact
 
-- 🚀 Construyo soluciones de software end-to-end con foco en **producto, automatización e IA**.
-- 🔐 Interés fuerte en **seguridad aplicada** y buenas prácticas de desarrollo seguro.
-- 🧪 Me gusta iterar rápido: prototipo → validación → mejora continua.
-- 🌍 Idiomas: Español / English.
+- LinkedIn: [linkedin.com/in/hugovaler](https://www.linkedin.com/in/hugovaler/)
+- GitHub: [github.com/hvaler](https://github.com/hvaler)
 
 ---
 
-## ⚙️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-## 📌 Focus now
-
-- 🤖 Integraciones con LLMs y agentes
-- 🛡️ Seguridad en pipelines y revisión de código
-- ⚡ Productividad con automatizaciones en GitHub
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hvaler&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvaler&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hvaler&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hvaler/hvaler/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🤝 Let’s connect
-
-- 💼 LinkedIn: [hugovaler](https://www.linkedin.com/in/hugovaler/)
-- 🧩 Siempre abierto a colaborar en proyectos de alto impacto.
-
-<div align="center">
-
-> _"Build fast. Build right. Build secure."_
-
-</div>
+_Professional profile README · concise, technical, and business-oriented._
