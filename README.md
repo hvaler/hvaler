@@ -1,73 +1,73 @@
 # Hugo Valer
 
-**Software architect · Governed agentic AI for on-premise and regulated environments**
+**Arquitecto de software · IA agéntica gobernada para entornos on-premise y regulados**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Valer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovaler/)
-[![Ovillo docs](https://img.shields.io/badge/Ovillo-documentation-2E7D32?style=flat-square&logo=readthedocs&logoColor=white)](https://hvaler.github.io/ovillo-docs/)
+[![Documentación de Ovillo](https://img.shields.io/badge/Ovillo-documentaci%C3%B3n-2E7D32?style=flat-square&logo=readthedocs&logoColor=white)](https://hvaler.github.io/ovillo-docs/)
 
 ---
 
-## What I do
+## A qué me dedico
 
-I design and maintain AI-assisted development platforms for organisations where the source code cannot leave the building.
+Diseño y sostengo plataformas de desarrollo asistido por IA en organizaciones donde el código no puede salir de casa.
 
-At Universidad Pontificia Comillas I am the principal architect of the development AI ecosystem: agents running on-premise on top of Azure DevOps Server, under a strict governance model. Advisors are read-only, commands are the single write path, and every decision is sealed as an ADR with a content hash. This is not developer assistance — it is a platform with invariants.
+En la Universidad Pontificia Comillas soy el arquitecto principal del ecosistema de IA de desarrollo: agentes que se ejecutan on-premise sobre Azure DevOps Server, con un modelo de gobernanza estricto. Los asesores son de solo lectura, los comandos son la única vía de escritura y cada decisión queda sellada como ADR con hash de contenido. No es asistencia al programador: es una plataforma con invariantes.
 
-- **Agent governance.** Command / skill / agent triad, content-hash stamping, ADR-backed decisions.
-- **On-premise by constraint.** Azure DevOps Server 2020, no code leaves the perimeter.
-- **MCP.** Hub servers centralising architectural records and quality evidence.
-- **Measured quality.** Gates that fail builds, not dashboards that decorate them.
+- **Gobernanza de agentes.** Tríada comando / skill / agente, sellado por hash de contenido, decisiones respaldadas por ADR.
+- **On-premise por requisito.** Azure DevOps Server 2020, sin que el código salga del perímetro.
+- **MCP.** Servidores hub que centralizan registros de arquitectura y evidencias de calidad.
+- **Calidad medida.** Gates que rompen la build, no cuadros de mando decorativos.
 
 ---
 
-## Proof, not adjectives
+## Pruebas, no adjetivos
 
-Last quality remediation campaign on the platform's codebase:
+Última campaña de remediación de calidad sobre el código de la plataforma:
 
-| Metric | Before | After |
+| Métrica | Antes | Después |
 |---|---|---|
 | CRAPmax | 272 | 26 |
-| Line coverage | 61.4% | 87.9% |
-| Branch coverage | 65.8% | 91.7% |
-| Quality gate | FAIL | PASS |
+| Cobertura de línea | 61,4 % | 87,9 % |
+| Cobertura de rama | 65,8 % | 91,7 % |
+| Gate de calidad | FAIL | PASS |
 
 ---
 
 ## Ovillo
 
-[**Ovillo**](https://hvaler.github.io/ovillo-docs/) is my own Claude Code ecosystem for .NET, distributed as the `hv@ovillo` plugin. It brings the governance model above to any .NET codebase: read-only advisors, commands as the only write path, and a documented decision trail.
+[**Ovillo**](https://hvaler.github.io/ovillo-docs/) es mi propio ecosistema Claude Code para .NET, distribuido como plugin `hv@ovillo`. Lleva el modelo de gobernanza anterior a cualquier base de código .NET: asesores de solo lectura, comandos como única vía de escritura y una traza documentada de decisiones.
 
-Documentation portal: **hvaler.github.io/ovillo-docs**
+Portal de documentación: **hvaler.github.io/ovillo-docs**
 
 ---
 
-## Selected work
+## Trabajo seleccionado
 
-| Project | What it is |
+| Proyecto | Qué es |
 |---|---|
-| [**ovillo-docs**](https://github.com/hvaler/ovillo-docs) | Documentation portal for Ovillo, generated from source on every release. |
-| [**stripboard-dev**](https://github.com/hvaler/stripboard-dev) | Autonomous line producer for film shoots. The LLM formulates, CP-SAT decides, a human approves. Gemini + Grafana MCP. |
-| [**atelier**](https://github.com/hvaler/atelier) | Descriptive-geometry verifier. OpenCV measures the drawing, the model teaches and may not invent a number. Python, Vertex AI. |
-| [**cursus**](https://github.com/hvaler/cursus) | Course planner whose tools can refuse, explain what a choice forecloses two years ahead, and be rewound. Built with WebMCP. |
+| [**ovillo-docs**](https://github.com/hvaler/ovillo-docs) | Portal de documentación de Ovillo, generado desde el código en cada versión. |
+| [**stripboard-dev**](https://github.com/hvaler/stripboard-dev) | Productor de línea autónomo para rodajes. El LLM formula, CP-SAT decide, un humano aprueba. Gemini + Grafana MCP. |
+| [**atelier**](https://github.com/hvaler/atelier) | Verificador de geometría descriptiva. OpenCV mide el dibujo; el modelo enseña y no puede inventarse un número. Python, Vertex AI. |
+| [**cursus**](https://github.com/hvaler/cursus) | Planificador de itinerarios académicos cuyas herramientas pueden negarse, explicar qué cierra una decisión dos años antes de que duela, y rebobinar. Construido con WebMCP. |
 
-Built during OpenAI Build Week, Agentic Cinema and All Things Agentic (2026).
+Desarrollados en OpenAI Build Week, Agentic Cinema y All Things Agentic (2026).
 
 ---
 
 ## Stack
 
-**Languages** C# · Python · Rust
+**Lenguajes** C# · Python · Rust
 **Frameworks** .NET · ASP.NET Core · Blazor
-**Data** SQL Server · PostgreSQL
-**Platform** Azure · Docker · Azure DevOps Server
-**AI** Claude Code · MCP · agent orchestration and governance
+**Datos** SQL Server · PostgreSQL
+**Plataforma** Azure · Docker · Azure DevOps Server
+**IA** Claude Code · MCP · orquestación y gobernanza de agentes
 
-Thirty years building software; the last few spent getting agentic AI to work in production rather than in demos.
+Treinta años construyendo software; los últimos dedicados a que la IA agéntica funcione en producción y no solo en demos.
 
 ---
 
-## Contact
+## Contacto
 
-Madrid, Spain. Open to conversations about .NET architecture, MCP, and AI adoption in organisations with data-residency constraints.
+Madrid, España. Abierto a conversaciones sobre arquitectura .NET, MCP y adopción de IA en organizaciones con restricciones de residencia del dato.
 
 [LinkedIn](https://www.linkedin.com/in/hugovaler/) · [Ovillo](https://hvaler.github.io/ovillo-docs/)
