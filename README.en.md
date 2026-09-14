@@ -52,6 +52,16 @@ Documentation portal: **hvaler.github.io/ovillo-docs**
 
 ---
 
+## Presura
+
+[**Presura**](https://presura.net/) es un CRM y generador de presupuestos para empresas
+de reformas. La IA redacta el borrador a partir del banco de precios propio de cada
+empresa —su coste, su margen, su forma de nombrar las partidas— y el cliente firma
+desde el móvil. Multiempresa, multi-moneda, seis idiomas.
+
+Producto propio en explotación. Código privado.
+---
+
 ## Selected work
 
 | Project | What it is |
