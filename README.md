@@ -1,5 +1,7 @@
 # Hugo Valer
 
+**Español** · [English](https://github.com/hvaler/hvaler/blob/main/README.en.md)
+
 **Arquitecto de software · IA agéntica gobernada para entornos on-premise y regulados**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Valer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovaler/)
@@ -50,7 +52,7 @@ Portal de documentación: **hvaler.github.io/ovillo-docs**
 | [**atelier**](https://github.com/hvaler/atelier) | Verificador de geometría descriptiva. OpenCV mide el dibujo; el modelo enseña y no puede inventarse un número. Python, Vertex AI. |
 | [**cursus**](https://github.com/hvaler/cursus) | Planificador de itinerarios académicos cuyas herramientas pueden negarse, explicar qué cierra una decisión dos años antes de que duela, y rebobinar. Construido con WebMCP. |
 
-Desarrollados en OpenAI Build Week, Agentic Cinema y All Things Agentic (2026).
+Desarrollados en OpenAI Build Week, Agentic Cinema y All Things Agentic (2026). Documentados en inglés, el idioma de estos hackathons.
 
 ---
 
