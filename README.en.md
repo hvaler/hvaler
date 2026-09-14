@@ -2,7 +2,7 @@
 
 [Español](https://github.com/hvaler/hvaler/blob/main/README.md) · **English**
 
-**Software architect · governed agentic AI · on-prem and regulated environments**
+**Software architect · governed agentic AI · custom software · regulated environments**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Valer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovaler/)
 [![Ovillo docs](https://img.shields.io/badge/Ovillo-documentation-2E7D32?style=flat-square&logo=readthedocs&logoColor=white)](https://hvaler.github.io/ovillo-docs/)
@@ -20,7 +20,12 @@ At Universidad Pontificia Comillas I am the principal architect of the developme
 - **On-premise by constraint.** Azure DevOps Server 2020, no code leaves the perimeter.
 - **MCP.** Hub servers centralising architecture records and quality evidence.
 - **Measured quality.** Gates that fail builds, not dashboards that decorate them.
+---
+## Custom software
 
+I also design and build custom business software for organisations that need their tools to reflect the way they actually work.
+
+From requirements and domain modelling through development, integration, deployment and ongoing evolution. Particularly for multi-company, multilingual, regulated environments or business processes that do not fit well into standard products.
 ---
 
 ## Proof, not adjectives
@@ -81,3 +86,21 @@ Built during OpenAI Build Week, Agentic Cinema and All Things Agentic.
 | Languages | C# · Python · TypeScript · Rust |
 | Frameworks | .NET · ASP.NET Core · Blazor |
 | Web | React · Node · Cloudflare
+
+---
+---
+
+## Contact
+
+Madrid, Spain. Open to conversations about .NET architecture, MCP, agentic AI and custom software development.
+
+I build business applications from requirements to production, especially for organisations with complex processes, regulated environments or needs that do not fit standard products.
+
+I reply within 48 h.
+
+| | |
+|---|---|
+| Email | [hugo@hugovaler.com](mailto:hugo@hugovaler.com) |
+| LinkedIn | [linkedin.com/in/hugovaler](https://www.linkedin.com/in/hugovaler/) |
+| Book 30 min | [cal.com/hugovaler/30min](https://cal.com/hugovaler/30min) |
+| Ovillo | [Documentation](https://hvaler.github.io/ovillo-docs/) · [Discussions](https://github.com/hvaler/ovillo-docs/discussions) |
