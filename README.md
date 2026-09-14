@@ -49,7 +49,15 @@ En la Universidad Pontificia Comillas soy el arquitecto principal del ecosistema
 [**Ovillo**](https://hvaler.github.io/ovillo-docs/) es mi propio ecosistema Claude Code para .NET, distribuido como plugin `hv@ovillo`. Lleva el modelo de gobernanza anterior a cualquier base de código .NET: asesores de solo lectura, comandos como única vía de escritura y una traza documentada de decisiones.
 
 Portal de documentación: **hvaler.github.io/ovillo-docs**
+---
+## Presura
 
+[**Presura**](https://presura.net/) is a CRM and quoting tool for renovation companies.
+The AI drafts each quote from the company's own price book — their cost, their margin,
+their wording for each line item — and the client signs from their phone. Multi-company,
+multi-currency, six languages.
+
+My own product, live. Source is private.
 ---
 
 ## Trabajo seleccionado
