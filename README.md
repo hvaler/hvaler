@@ -2,7 +2,7 @@
 
 **Español** · [English](https://github.com/hvaler/hvaler/blob/main/README.en.md)
 
-**Arquitecto de software · IA agéntica gobernada · entornos on-prem y regulados**
+**Arquitecto de software · IA agéntica gobernada · software a medida · entornos regulados**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Valer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovaler/)
 [![Documentación de Ovillo](https://img.shields.io/badge/Ovillo-documentaci%C3%B3n-2E7D32?style=flat-square&logo=readthedocs&logoColor=white)](https://hvaler.github.io/ovillo-docs/)
@@ -20,7 +20,12 @@ En la Universidad Pontificia Comillas soy el arquitecto principal del ecosistema
 - **On-premise por requisito.** Azure DevOps Server 2020, sin que el código salga del perímetro.
 - **MCP.** Servidores hub que centralizan registros de arquitectura y evidencias de calidad.
 - **Calidad medida.** Gates que rompen la build, no cuadros de mando decorativos.
+---
+## Software a medida
 
+También diseño y desarrollo software de gestión a medida para empresas que necesitan adaptar la herramienta a su forma real de trabajar.
+
+Desde la toma de requisitos y el modelado del dominio hasta el desarrollo, la integración, el despliegue y la evolución del producto. Especialmente en escenarios multiempresa, multiidioma, regulados o con procesos específicos que no encajan bien en un producto estándar.
 ---
 
 ## Pruebas, no adjetivos
@@ -91,7 +96,7 @@ Más de treinta años construyendo software; los últimos dedicados a que la IA 
 
 ## Contacto
 
-Madrid, España. Disponible para conversaciones sobre arquitectura .NET, MCP y despliegue de IA agéntica en organizaciones reguladas. También desarrollo aplicaciones de gestión a medida, de la toma de requisitos a la puesta en producción. Respondo en 48 h.
+Madrid, España. Disponible para conversaciones sobre arquitectura .NET, MCP, IA agéntica y desarrollo de software a medida. Construyo aplicaciones de gestión desde la toma de requisitos hasta la puesta en producción, especialmente para organizaciones con procesos complejos o entornos regulados. Respondo en 48 h.
 
 | | |
 |---|---|
