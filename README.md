@@ -70,7 +70,7 @@ Producto propio en explotación. Código privado.
 | [**atelier**](https://github.com/hvaler/atelier) | Verificador de geometría descriptiva. OpenCV mide el dibujo; el modelo enseña y no puede inventarse un número. Python, Vertex AI. |
 | [**cursus**](https://github.com/hvaler/cursus) | Planificador de itinerarios académicos cuyas herramientas pueden negarse, explicar qué cierra una decisión dos años antes de que duela, y rebobinar. Construido con WebMCP. |
 
-Desarrollados en OpenAI Build Week, Agentic Cinema, All Things Agentic y Stellar Odyssey Perú (2026). Documentados en inglés cuando esa era la lengua de trabajo del hackathon.
+Desarrollados en OpenAI Build Week, Agentic Cinema y All Things Agentic.
 
 ---
 
