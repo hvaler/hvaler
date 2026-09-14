@@ -6,12 +6,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Valer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovaler/)
 [![Ovillo docs](https://img.shields.io/badge/Ovillo-documentation-2E7D32?style=flat-square&logo=readthedocs&logoColor=white)](https://hvaler.github.io/ovillo-docs/)
+[![Book 30 min](https://img.shields.io/badge/Book-30%20min-000000?style=flat-square&logo=caldotcom&logoColor=white)](https://cal.com/hugovaler/30min)
 
 ---
 
 ## What I do
 
-I design and maintain AI-assisted development platforms for organisations where source code cannot leave the building.
+I design, build and ship AI-assisted development platforms for organisations where source code cannot leave the building.
 
 At Universidad Pontificia Comillas I am the principal architect of the development AI ecosystem: agents running on-premise on top of Azure DevOps Server under a strict governance model. Advisors are read-only, commands are the only write path, and every decision is sealed as an ADR with a content hash. This is not developer assistance — it is a platform with invariants.
 
@@ -55,12 +56,13 @@ Documentation portal: **hvaler.github.io/ovillo-docs**
 
 | Project | What it is |
 |---|---|
+| [**ArenaPay**](https://github.com/hvaler/ArenaPay) | Verifiable competitions on Stellar. The game runs off-chain; Soroban records only what must be incontestable: escrow, result hash, and the referee's signature. Rust contract, React web, Cloudflare Workers backend. Evidence you can check on-chain. |
 | [**ovillo-docs**](https://github.com/hvaler/ovillo-docs) | Documentation portal for Ovillo, generated from source on every release. |
 | [**stripboard-dev**](https://github.com/hvaler/stripboard-dev) | Autonomous line producer for film shoots. The LLM formulates, CP-SAT decides, a human approves. Gemini + Grafana MCP. |
 | [**atelier**](https://github.com/hvaler/atelier) | Descriptive-geometry verifier. OpenCV measures the drawing; the model teaches and may not invent a number. Python, Vertex AI. |
 | [**cursus**](https://github.com/hvaler/cursus) | Course planner whose tools can refuse, explain what a choice forecloses two years ahead, and be rewound. Built with WebMCP. |
 
-Built during OpenAI Build Week, Agentic Cinema and All Things Agentic (2026).
+Built during OpenAI Build Week, Agentic Cinema, All Things Agentic and Stellar Odyssey Perú (2026).
 
 ---
 
@@ -68,8 +70,9 @@ Built during OpenAI Build Week, Agentic Cinema and All Things Agentic (2026).
 
 | Area | Technologies |
 |---|---|
-| Languages | C# · Python · Rust |
+| Languages | C# · Python · TypeScript · Rust |
 | Frameworks | .NET · ASP.NET Core · Blazor |
+| Web | React · Node · Cloudflare Workers |
 | Data | SQL Server · PostgreSQL |
 | Platform | Azure · Docker · Azure DevOps Server |
 | AI | Claude Code · MCP · agent orchestration and governance |
@@ -80,11 +83,11 @@ Thirty years building software; the last few focused on making agentic AI work i
 
 ## Contact
 
-Madrid, Spain. Open to conversations about .NET architecture, MCP, and deploying agentic AI in regulated organisations. I reply within 48 h.
+Madrid, Spain. Open to conversations about .NET architecture, MCP, and deploying agentic AI in regulated organisations. I also build custom line-of-business applications, from requirements to production. I reply within 48 h.
 
 | | |
 |---|---|
 | Email | [hugo@tudominio.com](mailto:hugo@tudominio.com) |
 | LinkedIn | [linkedin.com/in/hugovaler](https://www.linkedin.com/in/hugovaler/) |
-| Book 30 min | [cal.com/hugovaler](https://cal.com/hugovaler) |
+| Book 30 min | [cal.com/hugovaler/30min](https://cal.com/hugovaler/30min) |
 | Ovillo | [Documentation](https://hvaler.github.io/ovillo-docs/) · [Discussions](https://github.com/hvaler/ovillo-docs/discussions) |
