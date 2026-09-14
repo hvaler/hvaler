@@ -70,7 +70,7 @@ My own product, live. Source is private.
 | [**atelier**](https://github.com/hvaler/atelier) | Descriptive-geometry verifier. OpenCV measures the drawing; the model teaches and may not invent a number. Python, Vertex AI. |
 | [**cursus**](https://github.com/hvaler/cursus) | Course planner whose tools can refuse, explain what a choice forecloses two years ahead, and be rewound. Built with WebMCP. |
 
-Built during OpenAI Build Week, Agentic Cinema, All Things Agentic and Stellar Odyssey Perú (2026).
+Built during OpenAI Build Week, Agentic Cinema and All Things Agentic.
 
 ---
 
@@ -80,22 +80,4 @@ Built during OpenAI Build Week, Agentic Cinema, All Things Agentic and Stellar O
 |---|---|
 | Languages | C# · Python · TypeScript · Rust |
 | Frameworks | .NET · ASP.NET Core · Blazor |
-| Web | React · Node · Cloudflare Workers |
-| Data | SQL Server · PostgreSQL |
-| Platform | Azure · Docker · Azure DevOps Server |
-| AI | Claude Code · MCP · agent orchestration and governance |
-
-Thirty years building software; the last few focused on making agentic AI work in production rather than demos.
-
----
-
-## Contact
-
-Madrid, Spain. Open to conversations about .NET architecture, MCP, and deploying agentic AI in regulated organisations. I also build custom line-of-business applications, from requirements to production. I reply within 48 h.
-
-| | |
-|---|---|
-| Email | [hugo@hugovaler.com](mailto:hugo@hugovaler.com) |
-| LinkedIn | [linkedin.com/in/hugovaler](https://www.linkedin.com/in/hugovaler/) |
-| Book 30 min | [cal.com/hugovaler/30min](https://cal.com/hugovaler/30min) |
-| Ovillo | [Documentation](https://hvaler.github.io/ovillo-docs/) · [Discussions](https://github.com/hvaler/ovillo-docs/discussions) |
+| Web | React · Node · Cloudflare
