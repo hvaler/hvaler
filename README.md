@@ -1,59 +1,73 @@
 # Hugo Valer
 
-**Software Engineer | Microsoft Stack | AI & Secure Delivery**
+**Software architect · Governed agentic AI for on-premise and regulated environments**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Valer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovaler/)
-[![GitHub](https://img.shields.io/badge/GitHub-hvaler-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hvaler)
-[![Profile Views](https://komarev.com/ghpvc/?username=hvaler&style=flat-square&color=0e75b6)](https://github.com/hvaler)
+[![Ovillo docs](https://img.shields.io/badge/Ovillo-documentation-2E7D32?style=flat-square&logo=readthedocs&logoColor=white)](https://hvaler.github.io/ovillo-docs/)
 
 ---
 
-## About
+## What I do
 
-Software engineer focused on building reliable digital products with the **Microsoft ecosystem**.  
-I work across backend, cloud, and delivery pipelines with a strong emphasis on **security, automation, and business impact**.
+I design and maintain AI-assisted development platforms for organisations where the source code cannot leave the building.
 
-- Build and maintain scalable applications with **C# / .NET**.
-- Design and operate cloud workloads on **Azure**.
-- Improve engineering flow with **CI/CD, automation, and code quality practices**.
-- Apply **secure-by-design** principles throughout the development lifecycle.
+At Universidad Pontificia Comillas I am the principal architect of the development AI ecosystem: agents running on-premise on top of Azure DevOps Server, under a strict governance model. Advisors are read-only, commands are the single write path, and every decision is sealed as an ADR with a content hash. This is not developer assistance — it is a platform with invariants.
 
----
-
-## Core Stack (Microsoft-first)
-
-- **Languages & Frameworks:** C#, .NET, ASP.NET Core
-- **Cloud & Platform:** Microsoft Azure
-- **Data:** SQL Server
-- **DevOps:** GitHub Actions, Azure DevOps, Docker
-- **Security & Quality:** SAST mindset, secure code reviews, dependency hygiene
-- **AI Productivity:** GitHub Copilot, automation workflows
+- **Agent governance.** Command / skill / agent triad, content-hash stamping, ADR-backed decisions.
+- **On-premise by constraint.** Azure DevOps Server 2020, no code leaves the perimeter.
+- **MCP.** Hub servers centralising architectural records and quality evidence.
+- **Measured quality.** Gates that fail builds, not dashboards that decorate them.
 
 ---
 
-## Current Focus
+## Proof, not adjectives
 
-- Enterprise-grade backend services on .NET
-- Azure architecture and operational excellence
-- Secure software delivery (DevSecOps practices)
-- Practical AI integration for engineering productivity
+Last quality remediation campaign on the platform's codebase:
+
+| Metric | Before | After |
+|---|---|---|
+| CRAPmax | 272 | 26 |
+| Line coverage | 61.4% | 87.9% |
+| Branch coverage | 65.8% | 91.7% |
+| Quality gate | FAIL | PASS |
 
 ---
 
-## GitHub Overview
+## Ovillo
 
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hvaler&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvaler&layout=compact&theme=default&hide_border=true" />
-</div>
+[**Ovillo**](https://hvaler.github.io/ovillo-docs/) is my own Claude Code ecosystem for .NET, distributed as the `hv@ovillo` plugin. It brings the governance model above to any .NET codebase: read-only advisors, commands as the only write path, and a documented decision trail.
+
+Documentation portal: **hvaler.github.io/ovillo-docs**
+
+---
+
+## Selected work
+
+| Project | What it is |
+|---|---|
+| [**ovillo-docs**](https://github.com/hvaler/ovillo-docs) | Documentation portal for Ovillo, generated from source on every release. |
+| [**stripboard-dev**](https://github.com/hvaler/stripboard-dev) | Autonomous line producer for film shoots. The LLM formulates, CP-SAT decides, a human approves. Gemini + Grafana MCP. |
+| [**atelier**](https://github.com/hvaler/atelier) | Descriptive-geometry verifier. OpenCV measures the drawing, the model teaches and may not invent a number. Python, Vertex AI. |
+| [**cursus**](https://github.com/hvaler/cursus) | Course planner whose tools can refuse, explain what a choice forecloses two years ahead, and be rewound. Built with WebMCP. |
+
+Built during OpenAI Build Week, Agentic Cinema and All Things Agentic (2026).
+
+---
+
+## Stack
+
+**Languages** C# · Python · Rust
+**Frameworks** .NET · ASP.NET Core · Blazor
+**Data** SQL Server · PostgreSQL
+**Platform** Azure · Docker · Azure DevOps Server
+**AI** Claude Code · MCP · agent orchestration and governance
+
+Thirty years building software; the last few spent getting agentic AI to work in production rather than in demos.
 
 ---
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/hugovaler](https://www.linkedin.com/in/hugovaler/)
-- GitHub: [github.com/hvaler](https://github.com/hvaler)
+Madrid, Spain. Open to conversations about .NET architecture, MCP, and AI adoption in organisations with data-residency constraints.
 
----
-
-_Professional profile README · concise, technical, and business-oriented._
+[LinkedIn](https://www.linkedin.com/in/hugovaler/) · [Ovillo](https://hvaler.github.io/ovillo-docs/)
