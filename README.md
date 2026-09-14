@@ -6,12 +6,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Valer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovaler/)
 [![Documentación de Ovillo](https://img.shields.io/badge/Ovillo-documentaci%C3%B3n-2E7D32?style=flat-square&logo=readthedocs&logoColor=white)](https://hvaler.github.io/ovillo-docs/)
+[![Agenda 30 min](https://img.shields.io/badge/Agenda-30%20min-000000?style=flat-square&logo=caldotcom&logoColor=white)](https://cal.com/hugovaler/30min)
 
 ---
 
 ## A qué me dedico
 
-Diseño y sostengo plataformas de desarrollo asistido por IA en organizaciones donde el código no puede salir de casa.
+Diseño, construyo y pongo en producción plataformas de desarrollo asistido por IA en entornos donde el código no puede salir de casa.
 
 En la Universidad Pontificia Comillas soy el arquitecto principal del ecosistema de IA de desarrollo: agentes que se ejecutan on-premise sobre Azure DevOps Server, con un modelo de gobernanza estricto. Los asesores son de solo lectura, los comandos son la única vía de escritura y cada decisión queda sellada como ADR con hash de contenido. No es asistencia al programador: es una plataforma con invariantes.
 
@@ -55,12 +56,13 @@ Portal de documentación: **hvaler.github.io/ovillo-docs**
 
 | Proyecto | Qué es |
 |---|---|
+| [**ArenaPay**](https://github.com/hvaler/ArenaPay) | Competiciones verificables sobre Stellar. El juego ocurre fuera de cadena; Soroban registra solo lo incontestable: escrow, hash del resultado y firma del árbitro. Contrato en Rust, web en React, backend en Cloudflare Workers. Evidencia contrastable en cadena. |
 | [**ovillo-docs**](https://github.com/hvaler/ovillo-docs) | Portal de documentación de Ovillo, generado desde el código en cada versión. |
 | [**stripboard-dev**](https://github.com/hvaler/stripboard-dev) | Productor de línea autónomo para rodajes. El LLM formula, CP-SAT decide, un humano aprueba. Gemini + Grafana MCP. |
 | [**atelier**](https://github.com/hvaler/atelier) | Verificador de geometría descriptiva. OpenCV mide el dibujo; el modelo enseña y no puede inventarse un número. Python, Vertex AI. |
 | [**cursus**](https://github.com/hvaler/cursus) | Planificador de itinerarios académicos cuyas herramientas pueden negarse, explicar qué cierra una decisión dos años antes de que duela, y rebobinar. Construido con WebMCP. |
 
-Desarrollados en OpenAI Build Week, Agentic Cinema y All Things Agentic (2026). Documentados en inglés, el idioma de estos hackathons.
+Desarrollados en OpenAI Build Week, Agentic Cinema, All Things Agentic y Stellar Odyssey Perú (2026). Documentados en inglés cuando esa era la lengua de trabajo del hackathon.
 
 ---
 
@@ -68,23 +70,24 @@ Desarrollados en OpenAI Build Week, Agentic Cinema y All Things Agentic (2026). 
 
 | Área | Tecnologías |
 |---|---|
-| Lenguajes | C# · Python · Rust |
+| Lenguajes | C# · Python · TypeScript · Rust |
 | Frameworks | .NET · ASP.NET Core · Blazor |
+| Web | React · Node · Cloudflare Workers |
 | Datos | SQL Server · PostgreSQL |
 | Plataforma | Azure · Docker · Azure DevOps Server |
 | IA | Claude Code · MCP · orquestación y gobernanza de agentes |
 
-Treinta años construyendo software; los últimos dedicados a que la IA agéntica funcione en producción y no solo en demos.
+Más de treinta años construyendo software; los últimos dedicados a que la IA agéntica funcione en producción y no solo en demos.
 
 ---
 
 ## Contacto
 
-Madrid, España. Disponible para conversaciones sobre arquitectura .NET, MCP y despliegue de IA agéntica en organizaciones reguladas. Respondo en 48 h.
+Madrid, España. Disponible para conversaciones sobre arquitectura .NET, MCP y despliegue de IA agéntica en organizaciones reguladas. También desarrollo aplicaciones de gestión a medida, de la toma de requisitos a la puesta en producción. Respondo en 48 h.
 
 | | |
 |---|---|
 | Correo | [hugo@tudominio.com](mailto:hugo@tudominio.com) |
 | LinkedIn | [linkedin.com/in/hugovaler](https://www.linkedin.com/in/hugovaler/) |
-| Agenda 30 min | [cal.com/hugovaler](https://cal.com/hugovaler) |
+| Agenda 30 min | [cal.com/hugovaler/30min](https://cal.com/hugovaler/30min) |
 | Ovillo | [Documentación](https://hvaler.github.io/ovillo-docs/) · [Discussions](https://github.com/hvaler/ovillo-docs/discussions) |
