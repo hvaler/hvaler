@@ -20,12 +20,14 @@ At Universidad Pontificia Comillas I am the principal architect of the developme
 - **On-premise by constraint.** Azure DevOps Server 2020, no code leaves the perimeter.
 - **MCP.** Hub servers centralising architecture records and quality evidence.
 - **Measured quality.** Gates that fail builds, not dashboards that decorate them.
+  
 ---
 ## Custom software
 
-I also design and build custom business software for organisations that need their tools to reflect the way they actually work.
+I also design and build custom business software for organisations that need their tools to reflect the way they actually work. 
 
 From requirements and domain modelling through development, integration, deployment and ongoing evolution. Particularly for multi-company, multilingual, regulated environments or business processes that do not fit well into standard products.
+
 ---
 
 ## Proof, not adjectives
