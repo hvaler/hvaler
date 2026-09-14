@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ingeniero+de+Software+%7C+AI+Builder+%7C+Security-minded;Construyendo+productos+con+impacto+real;Code.+Automate.+Secure.+Ship."
-     alt="Typing intro" />
+<h1>👨‍💻 Hugo Valer</h1>
+<h3>Ingeniero de Software · AI Builder · Security-minded</h3>
 
 <br/>
 
